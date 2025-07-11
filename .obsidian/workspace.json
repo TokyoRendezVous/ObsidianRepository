@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "e68726d65db929eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "36c502656eb44fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac40ac990bcb6d9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Index/The AI-Native Software Engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The AI-Native Software Engineer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f27efd02983d2dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "d693904c1ba04b81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee624892488a376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b294da7fdce98be0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "dd228c21b65a9dca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1ec831734ccba3f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca1e567fc68251c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d46e235d1e2e048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Index/The AI-Native Software Engineer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "The AI-Native Software Engineer 的反向链接列表"
+            }
+          },
+          {
+            "id": "3698dfe0c7477034",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Index/The AI-Native Software Engineer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "The AI-Native Software Engineer 的出链列表"
+            }
+          },
+          {
+            "id": "93c533c56a5112d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "62d0af01c74771d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Index/The AI-Native Software Engineer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "The AI-Native Software Engineer 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ac40ac990bcb6d9b",
+  "lastOpenFiles": [
+    "999 Templates/Notes Template.md",
+    "000 Index/The AI-Native Software Engineer.md",
+    "997 Clippings/The AI-Native Software Engineer.md",
+    "100 Notes/AI_LLM/AI.md",
+    "Invalid date.md",
+    "999 Templates/notes.md",
+    "100 Notes/Programming/Vim学习清单.md",
+    "997 Clippings",
+    "欢迎.md",
+    "300 Links/AI_LLM",
+    "100 Notes/AI_LLM",
+    "100 Notes/Programming",
+    "998 Images",
+    "999 Templates",
+    "300 Links",
+    "200 Book",
+    "100 Notes",
+    "000 Index"
+  ]
+}
