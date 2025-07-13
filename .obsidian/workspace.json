@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1ec831734ccba3f0",
@@ -151,8 +150,19 @@
               "icon": "lucide-list",
               "title": "The AI-Native Software Engineer 的大纲"
             }
+          },
+          {
+            "id": "d85ab434b47cf2e7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -167,13 +177,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ac40ac990bcb6d9b",
   "lastOpenFiles": [
-    "999 Templates/Notes Template.md",
+    "000 Index/Errors in C.md",
     "000 Index/The AI-Native Software Engineer.md",
+    "999 Templates/Notes Template.md",
     "997 Clippings/The AI-Native Software Engineer.md",
     "100 Notes/AI_LLM/AI.md",
     "Invalid date.md",
