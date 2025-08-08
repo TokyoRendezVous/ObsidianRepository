@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/Memory Management in C.md",
+                "file": "000 Index/变量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memory Management in C"
+              "title": "变量"
             }
           }
         ]
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +182,12 @@
   "active": "ac40ac990bcb6d9b",
   "lastOpenFiles": [
     "000 Index/The AI-Native Software Engineer.md",
+    "000 Index/变量.md",
     "000 Index/Memory Management in C.md",
+    "400 Investing/对冲日元贬值的投资策略.md",
+    "400 Investing/外国税額控除.md",
+    "400 Investing/税.md",
+    "400 Investing",
     "000 Index/Errors in C.md",
     "999 Templates/Notes Template.md",
     "997 Clippings/The AI-Native Software Engineer.md",
@@ -200,7 +204,6 @@
     "999 Templates",
     "300 Links",
     "200 Book",
-    "100 Notes",
-    "000 Index"
+    "100 Notes"
   ]
 }
