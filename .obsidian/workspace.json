@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Vim学习清单"
             }
+          },
+          {
+            "id": "600f951f920f04fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -179,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac40ac990bcb6d9b",
+  "active": "600f951f920f04fc",
   "lastOpenFiles": [
     "000 Index/Memory Management in C.md",
     "000 Index/变量.md",
