@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.9.10"
             }
+          },
+          {
+            "id": "c96940f5ee948292",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "600f951f920f04fc",
+  "active": "c96940f5ee948292",
   "lastOpenFiles": [
     "000 Index/Memory Management in C.md",
     "000 Index/变量.md",
