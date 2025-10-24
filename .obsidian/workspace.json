@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/The AI-Native Software Engineer.md",
+                "file": "100 Notes/Programming/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The AI-Native Software Engineer"
+              "title": "未命名"
             }
           }
         ]
@@ -182,11 +182,12 @@
   },
   "active": "ac40ac990bcb6d9b",
   "lastOpenFiles": [
+    "000 Index/The AI-Native Software Engineer.md",
+    "100 Notes/Programming/未命名.md",
     "000 Index/Memory Management in C.md",
     "000 Index/变量.md",
     "999 Templates/Notes Template.md",
     "100 Notes/Programming/Vim学习清单.md",
-    "000 Index/The AI-Native Software Engineer.md",
     "400 Investing/对冲日元贬值的投资策略.md",
     "400 Investing/外国税額控除.md",
     "400 Investing/税.md",
