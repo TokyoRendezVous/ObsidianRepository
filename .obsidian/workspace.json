@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Rules"
             }
+          },
+          {
+            "id": "e140f7a2f15463b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac40ac990bcb6d9b",
+  "active": "e140f7a2f15463b3",
   "lastOpenFiles": [
     "100 Notes/Programming/调试.md",
     "000 Index/Rules.md",
