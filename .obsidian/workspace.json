@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Notes/Programming/📘 逻辑门与位运算速查表.md",
+                "file": "100 Notes/AI_LLM/Claude Code 最佳实践.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📘 逻辑门与位运算速查表"
+              "title": "Claude Code 最佳实践"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5,
+    "collapsed": true
   },
   "right": {
     "id": "1ec831734ccba3f0",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,15 +184,19 @@
   },
   "active": "ac40ac990bcb6d9b",
   "lastOpenFiles": [
-    "100 Notes/Programming/📘 C语言位运算笔记：二进制输出与掩码原理.md",
-    "100 Notes/Programming/📘 逻辑门与位运算速查表.md",
-    "997 Clippings/The AI-Native Software Engineer.md",
+    "100 Notes/AI_LLM/上下文窗口 - Context Window.md",
+    "100 Notes/AI_LLM/Claude Code 最佳实践.md",
     "000 Index/Rules.md",
+    "Pasted image 20260323215932.png",
+    "Pasted image 20260323215913.png",
+    "100 Notes/AI_LLM/The AI-Native Software Engineer.md",
+    "100 Notes/Programming/📘 逻辑门与位运算速查表.md",
+    "100 Notes/Programming/📘 C语言位运算笔记：二进制输出与掩码原理.md",
+    "997 Clippings/The AI-Native Software Engineer.md",
     "100 Notes/Programming/Memory Management in C.md",
     "100 Notes/Programming/调试.md",
     "100 Notes/Programming/变量.md",
     "100 Notes/Programming/Vim学习清单.md",
-    "100 Notes/AI_LLM/The AI-Native Software Engineer.md",
     "999 Templates/Notes Template.md",
     "400 Investing/外国税額控除.md",
     "400 Investing/税.md",
