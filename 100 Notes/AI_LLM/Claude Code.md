@@ -70,4 +70,19 @@ Claude Code can teach you how to use it.
 
 ## 2. Extend Claude Code
 
-https://code.claude.com/docs/en/how-claude-code-works#claude-md-vs-skill
+ttps://code.claude.com/docs/en/how-claude-code-works#claude-md-vs-skill
+
+
+
+### 2.1 CLAUDE.md
+
+| Feature         | What it does                                               | When to use it                                                                  | Example                                                                         |
+| --------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **CLAUDE.md**   | **Persistent** context loaded every conversation           | Project conventions, “always do X” rules                                        | ”Use pnpm, not npm. Run tests before committing.”                               |
+| **Skill**       | Instructions, knowledge, and workflows Claude can use      | **Reusable** content, reference docs, repeatable tasks                          | `/deploy` runs your deployment checklist; API docs skill with endpoint patterns |
+| **Subagent**    | Isolated execution context that returns summarized results | Context **isolation**, parallel tasks, specialized workers                      | Research task that reads many files but returns only key findings               |
+| **Agent teams** | Coordinate multiple independent Claude Code sessions       | Parallel research, new feature development, debugging with competing hypotheses | Spawn reviewers to check security, performance, and tests simultaneously        |
+| **MCP**         | Connect to **external** services                           | External data or actions                                                        | Query your database, post to Slack, control a browser                           |
+| **Hook**        | Deterministic script that runs on events                   | Predictable automation, no LLM involved                                         | Run ESLint after every file edit                                                |
+![[Pasted image 20260324205253.png]]
+
