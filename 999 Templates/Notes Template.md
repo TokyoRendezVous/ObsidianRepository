@@ -1,5 +1,5 @@
 ---
-source: 
+source:
 date: "{{date}}"
 tags:
 ---
