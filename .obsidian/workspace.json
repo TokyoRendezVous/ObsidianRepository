@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Notes/Japanese/未命名.md",
+                "file": "100 Notes/Programming/指针.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "指针"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
-    "collapsed": true
+    "width": 283.5
   },
   "right": {
     "id": "1ec831734ccba3f0",
@@ -184,9 +183,13 @@
   },
   "active": "55174ec7982c9b88",
   "lastOpenFiles": [
+    "100 Notes/Programming/📘 C语言位运算笔记：二进制输出与掩码原理.md",
+    "100 Notes/Programming/指针.md",
+    "未命名.base",
+    "未命名 1.base",
+    "100 Notes/Japanese/未命名.md",
     "100 Notes/Japanese",
     "500 Daily/2026-03-27.md",
-    "100 Notes/Japanese/未命名.md",
     "100 Notes/AI_LLM/Prompt.md",
     "999 Templates/daily_notes_template.md",
     "999 Templates/Notes Template.md",
@@ -195,7 +198,6 @@
     "2026-03-27.md",
     "998 Images/Pasted image 20260324205253.png",
     "100 Notes/AI_LLM/上下文窗口 - Context Window.md",
-    "100 Notes/Programming/📘 C语言位运算笔记：二进制输出与掩码原理.md",
     "100 Notes/Programming/变量.md",
     "100 Notes/Programming/调试.md",
     "100 Notes/Programming/Memory Management in C.md",
@@ -220,9 +222,6 @@
     "300 Links/AI_LLM",
     "100 Notes/AI_LLM",
     "100 Notes/Programming",
-    "998 Images",
-    "999 Templates",
-    "300 Links",
-    "200 Book"
+    "998 Images"
   ]
 }
