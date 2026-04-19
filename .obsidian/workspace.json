@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Notes/Programming/算法题常见问题总结.md",
+                "file": "500 Daily/2026-04-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "算法题常见问题总结"
+              "title": "2026-04-19"
             }
           }
         ]
@@ -183,14 +183,20 @@
   },
   "active": "55174ec7982c9b88",
   "lastOpenFiles": [
+    "100 Notes/Programming/C/存储类别-存储类别说明符.md",
+    "500 Daily/2026-04-19.md",
     "500 Daily/2026-04-17.md",
-    "[算法题常见问题总结.md",
-    "100 Notes/Programming/算法题常见问题总结.md",
-    "500 Daily/2026-04-16.md",
-    "100 Notes/Programming/指针.md",
-    "100 Notes/Programming/📘 C语言位运算笔记：二进制输出与掩码原理.md",
-    "未命名.base",
     "未命名 1.base",
+    "未命名.base",
+    "100 Notes/Programming/算法题常见问题总结.md",
+    "100 Notes/Programming/📘 逻辑门与位运算速查表.md",
+    "100 Notes/Programming/C/变量.md",
+    "100 Notes/Programming/C/Memory Management in C.md",
+    "100 Notes/Programming/C/指针.md",
+    "100 Notes/Programming/C",
+    "[算法题常见问题总结.md",
+    "500 Daily/2026-04-16.md",
+    "100 Notes/Programming/C/📘 C语言位运算笔记：二进制输出与掩码原理.md",
     "100 Notes/Japanese/未命名.md",
     "100 Notes/Japanese",
     "500 Daily/2026-03-27.md",
@@ -202,26 +208,20 @@
     "2026-03-27.md",
     "998 Images/Pasted image 20260324205253.png",
     "100 Notes/AI_LLM/上下文窗口 - Context Window.md",
-    "100 Notes/Programming/变量.md",
     "100 Notes/Programming/调试.md",
-    "100 Notes/Programming/Memory Management in C.md",
     "100 Notes/Programming/Vim学习清单.md",
     "100 Notes/AI_LLM/The AI-Native Software Engineer.md",
     "998 Images/Pasted image 20260324203254.png",
     "998 Images/Pasted image 20260323215913.png",
     "998 Images/Pasted image 20260323215932.png",
     "000 Index/Rules.md",
-    "100 Notes/Programming/📘 逻辑门与位运算速查表.md",
     "997 Clippings/The AI-Native Software Engineer.md",
     "400 Investing/外国税額控除.md",
     "400 Investing/税.md",
-    "400 Investing/对冲日元贬值的投资策略.md",
     "400 Investing",
-    "000 Index/Errors in C.md",
     "997 Clippings",
     "300 Links/AI_LLM",
     "100 Notes/AI_LLM",
-    "100 Notes/Programming",
-    "998 Images"
+    "100 Notes/Programming"
   ]
 }
