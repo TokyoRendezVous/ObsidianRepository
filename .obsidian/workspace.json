@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Daily/2026-04-19.md",
+                "file": "500 Daily/2026-04-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-19"
+              "title": "2026-04-21"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "55174ec7982c9b88",
   "lastOpenFiles": [
-    "100 Notes/Programming/C/存储类别-存储类别说明符.md",
     "500 Daily/2026-04-19.md",
+    "500 Daily/2026-04-21.md",
+    "100 Notes/Programming/C/存储类别-存储类别说明符.md",
     "500 Daily/2026-04-17.md",
     "未命名 1.base",
     "未命名.base",
@@ -217,7 +218,6 @@
     "000 Index/Rules.md",
     "997 Clippings/The AI-Native Software Engineer.md",
     "400 Investing/外国税額控除.md",
-    "400 Investing/税.md",
     "400 Investing",
     "997 Clippings",
     "300 Links/AI_LLM",
