@@ -1,3 +1,14 @@
+### 前置知识
+#### read & write函数
+```c
+ssize_t read(int fd, void *buf, size_t count);
+ssize_t write(int fd, const void *buf, size_t count);
+```
+
+**fd** : 文件描述符
+> **文件描述符是用户程序和内核中 I/O 对象之间的“句柄”。程序通过整数 fd 找到内核维护的打开对象，再用统一的** **`read()`** **/** **`write()`** **接口进行操作。**
+
+
 
 ## Chapter 1
 
