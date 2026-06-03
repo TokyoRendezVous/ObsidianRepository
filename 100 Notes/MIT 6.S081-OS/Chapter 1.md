@@ -10,8 +10,6 @@ ssize_t write(int fd, const void *buf, size_t count);
 
 
 
-## Chapter 1
-
 ```c
 int p[2];
 char *argv[2];
